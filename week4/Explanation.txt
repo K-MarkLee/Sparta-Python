@@ -1,0 +1,9 @@
+Class_attribute_and_method는 클래스 속성과 메서드에 관한 내용
+
+Decorator_and_context_manager는 데코레이터와 구문(context manager)에 관한 내용
+
+File_control은 파일 컨트롤에 관한 내용
+
+Iterator_and_yeild은 이터레이터와 반복가능한 객체, 제너레이터와 yeild에 관한 내용
+
+Object_oriented는 객체지향에 관한 내용

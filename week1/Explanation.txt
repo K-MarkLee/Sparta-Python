@@ -1,0 +1,6 @@
+Data_type은 데이터 타입에 관한 내용
+
+Variable_and_memory는 변수와 메모리에 관한 내용
+
+Operators는 연산자에 관한 내용
+

@@ -1,0 +1,7 @@
+Collection_Data_type은 컬렉션 데이터 타입에 관한 내용
+
+Conditional_statement은 조건문에 관한 내용
+
+Loop은 반복문에 관한 내용
+
+Type_conversion은 데이터 타입 변환에 관한 내용
